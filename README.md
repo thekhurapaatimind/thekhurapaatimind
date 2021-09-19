@@ -1,10 +1,33 @@
-### Hi there 👋
-[![Website Badge](https://img.shields.io/badge/-anushkaverma.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://verma-anushka.github.io/anushkaverma/)](https://verma-anushka.github.io/anushkaverma/) [![Linkedin Badge](https://img.shields.io/badge/-anushkaverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)](https://www.linkedin.com/in/anushkaverma/) [![Medium Badge](https://img.shields.io/badge/-@v.anushka786-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@v.anushka786)](https://medium.com/@v.anushka786) [![Gmail Badge](https://img.shields.io/badge/-v.anushka786-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.anushka786@gmail.com)](mailto:v.anushka786@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@v_anushkaa-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/v_anushkaa/)](https://instagram.com/v_anushkaa) [![Facebook Badge](https://img.shields.io/badge/-verma_anushka-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022118525351)](https://www.facebook.com/profile.php?id=100022118525351) [![GeeksforGeeks Badge](https://img.shields.io/badge/-verma_anushka-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/verma_anushka/articles)](https://auth.geeksforgeeks.org/user/verma_anushka/articles)
-Show ❤️ by starring repositories you find good!
-⭐️ From [Anushka Verma](https://github.com/verma-anushka)
-Also, star and fork this repository if you wish to give this new feature a try!
 
-[![HitCount](http://hits.dwyl.com/verma-anushka/verma-anushka.svg)](http://hits.dwyl.com/verma-anushka/verma-anushka) ![ViewCount](https://views.whatilearened.today/views/github/verma-anushka/verma-anushka.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://verma-anushka.github.io/anushkaverma/)
+<h1 align=center> Hi there 👋 </h1>
+<h3 align=center> Abhinav Yadav<br>Electrical Engineering @ IIT-Indore<br>Second Year </h3>
+<h5 align=center> Find Me On : </h5>
+<p align=center>
+<a href="https://www.linkedin.com/in/abhinav-yadav-00a288200/">
+  <img src="https://img.shields.io/badge/-Abhinav_Yadav-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinav-yadav-00a288200/">
+</a>
+<a href="mailto:actcrick02@gmail.com">
+  <img src="https://img.shields.io/badge/-actcrick02-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:actcrick02@gmail.com">
+</a>
+<a href="https://www.instagram.com/the_khurapaati_mind/">
+  <img src="https://img.shields.io/badge/-@the_khurapaati_mind-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/the_khurapaati_mind/">
+</a>
+<a href="https://www.facebook.com/abhinav.yadav.988926">
+  <img src="https://img.shields.io/badge/-Abhinav_Yadav-036be4?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/abhinav.yadav.988926">
+</a>
+<a href="https://www.youtube.com/channel/UCGvw2LLlzUPJ27KACpftXMQ">
+  <img src="https://img.shields.io/badge/-TheKhurapaatiMind-red?style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCGvw2LLlzUPJ27KACpftXMQ">
+</a>
+</p>
+<br><br>
+<p align=center>
+Show ❤️ by starring repositories you find good! ⭐️ From <a href="https://github.com/thekhurapaatimind">Abhinav Yadav</a>
+<br>Also, star and fork this repository if you wish to have a similar Profile Readme Page!
+<br><br><br>
+<a href="https://github.com/thekhurapaatimind/thekhurapaatimind/">
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg">
+</a>
+</p>
 
 <!--
 **thekhurapaatimind/thekhurapaatimind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
